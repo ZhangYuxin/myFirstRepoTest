@@ -1,4 +1,0 @@
-myFirstRepoTest
-===============
-
-just for exercise
