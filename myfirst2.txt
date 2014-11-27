@@ -1,0 +1,8 @@
+Do nothing but add a file
+<<<<<<< HEAD
+This is writen on master
+
+=======
+This is writen on mybranchfortest!
+Second Line;
+>>>>>>> mybranchfortest
